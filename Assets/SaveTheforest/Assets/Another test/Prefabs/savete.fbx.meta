@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: d24311a1fa4d31e488c88419f30a7254
+timeCreated: 1511119711
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: IMG_20171114_122921928_HDR_jpg
+    100002: IMG_20171114_122924656_HDR_jpg
+    100004: IMG_20171114_122926453_HDR_jpg
+    100006: IMG_20171114_122928914_HDR_jpg
+    100008: IMG_20171114_122931344_jpg
+    100010: IMG_20171114_122932702_HDR_jpg
+    100012: IMG_20171114_122934920_jpg
+    100014: IMG_20171114_122936912_HDR_jpg
+    100016: IMG_20171114_122939228_HDR_jpg
+    100018: IMG_20171114_122942347_HDR_jpg
+    100020: IMG_20171114_122944635_HDR_jpg
+    100022: IMG_20171114_122947069_HDR_jpg
+    100024: IMG_20171114_122948189_HDR_jpg
+    100026: IMG_20171114_122950344_HDR_jpg
+    100028: IMG_20171114_122952426_HDR_jpg
+    100030: IMG_20171114_122953720_HDR_jpg
+    100032: IMG_20171114_122956359_HDR_jpg
+    100034: IMG_20171114_123000063_HDR_jpg
+    100036: IMG_20171114_123002899_HDR_jpg
+    100038: IMG_20171114_123011538_HDR_jpg
+    100040: IMG_20171114_123013766_HDR_jpg
+    100042: IMG_20171114_123016448_jpg
+    100044: IMG_20171114_123017469_HDR_jpg
+    100046: IMG_20171114_123021348_HDR_jpg
+    100048: IMG_20171114_123024304_HDR_jpg
+    100050: IMG_20171114_123027319_HDR_jpg
+    100052: IMG_20171114_123030588_HDR_jpg
+    100054: IMG_20171114_123033573_HDR_jpg
+    100056: IMG_20171114_123038780_HDR_jpg
+    100058: IMG_20171114_123043319_HDR_jpg
+    100060: IMG_20171114_123047950_HDR_jpg
+    100062: IMG_20171114_123053642_HDR_jpg
+    100064: IMG_20171114_123056434_HDR_jpg
+    100066: IMG_20171114_123059251_HDR_jpg
+    100068: IMG_20171114_123101767_HDR_jpg
+    100070: IMG_20171114_123106581_HDR_jpg
+    100072: IMG_20171114_123109191_HDR_jpg
+    100074: IMG_20171114_123111908_HDR_jpg
+    100076: IMG_20171114_123114550_HDR_jpg
+    100078: IMG_20171114_123117063_HDR_jpg
+    100080: IMG_20171114_123118300_HDR_jpg
+    100082: mainMeshNode
+    100084: //RootNode
+    400000: IMG_20171114_122921928_HDR_jpg
+    400002: IMG_20171114_122924656_HDR_jpg
+    400004: IMG_20171114_122926453_HDR_jpg
+    400006: IMG_20171114_122928914_HDR_jpg
+    400008: IMG_20171114_122931344_jpg
+    400010: IMG_20171114_122932702_HDR_jpg
+    400012: IMG_20171114_122934920_jpg
+    400014: IMG_20171114_122936912_HDR_jpg
+    400016: IMG_20171114_122939228_HDR_jpg
+    400018: IMG_20171114_122942347_HDR_jpg
+    400020: IMG_20171114_122944635_HDR_jpg
+    400022: IMG_20171114_122947069_HDR_jpg
+    400024: IMG_20171114_122948189_HDR_jpg
+    400026: IMG_20171114_122950344_HDR_jpg
+    400028: IMG_20171114_122952426_HDR_jpg
+    400030: IMG_20171114_122953720_HDR_jpg
+    400032: IMG_20171114_122956359_HDR_jpg
+    400034: IMG_20171114_123000063_HDR_jpg
+    400036: IMG_20171114_123002899_HDR_jpg
+    400038: IMG_20171114_123011538_HDR_jpg
+    400040: IMG_20171114_123013766_HDR_jpg
+    400042: IMG_20171114_123016448_jpg
+    400044: IMG_20171114_123017469_HDR_jpg
+    400046: IMG_20171114_123021348_HDR_jpg
+    400048: IMG_20171114_123024304_HDR_jpg
+    400050: IMG_20171114_123027319_HDR_jpg
+    400052: IMG_20171114_123030588_HDR_jpg
+    400054: IMG_20171114_123033573_HDR_jpg
+    400056: IMG_20171114_123038780_HDR_jpg
+    400058: IMG_20171114_123043319_HDR_jpg
+    400060: IMG_20171114_123047950_HDR_jpg
+    400062: IMG_20171114_123053642_HDR_jpg
+    400064: IMG_20171114_123056434_HDR_jpg
+    400066: IMG_20171114_123059251_HDR_jpg
+    400068: IMG_20171114_123101767_HDR_jpg
+    400070: IMG_20171114_123106581_HDR_jpg
+    400072: IMG_20171114_123109191_HDR_jpg
+    400074: IMG_20171114_123111908_HDR_jpg
+    400076: IMG_20171114_123114550_HDR_jpg
+    400078: IMG_20171114_123117063_HDR_jpg
+    400080: IMG_20171114_123118300_HDR_jpg
+    400082: mainMeshNode
+    400084: //RootNode
+    2300000: mainMeshNode
+    3300000: mainMeshNode
+    4300000: mainMeshNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

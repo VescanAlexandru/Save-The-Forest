@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 5bd2c91bd709a024bb20e435f6c15392
+timeCreated: 1512384348
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Camera.001
+    100006: Lamp
+    100008: Lamp.001
+    100010: metarig
+    100012: Sphere
+    100014: Sphere.001
+    100016: Sphere.002
+    100018: spine
+    100020: spine.001
+    100022: spine.001_end
+    100024: spine.002
+    100026: spine.002_end
+    100028: spine.003
+    100030: spine.003_end
+    100032: spine.004
+    100034: spine.004_end
+    100036: spine.005
+    100038: spine.005_end
+    100040: spine.006
+    100042: spine.006_end
+    100044: spine.007
+    100046: spine.007_end
+    100048: spine.008
+    100050: spine.008_end
+    100052: spine.009
+    100054: spine.009_end
+    100056: spine.020
+    100058: spine.021
+    100060: spine.021_end
+    100062: spine.022
+    100064: spine.022_end
+    100066: spine.023
+    100068: spine.023_end
+    100070: spine.024
+    100072: spine.024_end
+    100074: spine.025
+    100076: spine.025_end
+    100078: spine.026
+    100080: spine.026_end
+    100082: spine.027
+    100084: spine.027_end
+    100086: spine.028
+    100088: spine.029
+    100090: spine.029_end
+    100092: spine_end
+    400000: //RootNode
+    400002: Camera
+    400004: Camera.001
+    400006: Lamp
+    400008: Lamp.001
+    400010: metarig
+    400012: Sphere
+    400014: Sphere.001
+    400016: Sphere.002
+    400018: spine
+    400020: spine.001
+    400022: spine.001_end
+    400024: spine.002
+    400026: spine.002_end
+    400028: spine.003
+    400030: spine.003_end
+    400032: spine.004
+    400034: spine.004_end
+    400036: spine.005
+    400038: spine.005_end
+    400040: spine.006
+    400042: spine.006_end
+    400044: spine.007
+    400046: spine.007_end
+    400048: spine.008
+    400050: spine.008_end
+    400052: spine.009
+    400054: spine.009_end
+    400056: spine.020
+    400058: spine.021
+    400060: spine.021_end
+    400062: spine.022
+    400064: spine.022_end
+    400066: spine.023
+    400068: spine.023_end
+    400070: spine.024
+    400072: spine.024_end
+    400074: spine.025
+    400076: spine.025_end
+    400078: spine.026
+    400080: spine.026_end
+    400082: spine.027
+    400084: spine.027_end
+    400086: spine.028
+    400088: spine.029
+    400090: spine.029_end
+    400092: spine_end
+    4300000: Sphere.002
+    4300002: Sphere.001
+    4300004: Sphere
+    7400000: metarig|1
+    7400002: metarig|Action
+    9500000: //RootNode
+    13700000: Sphere
+    13700002: Sphere.001
+    13700004: Sphere.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

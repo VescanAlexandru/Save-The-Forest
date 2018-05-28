@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 677a49aa13e248d43b23dcbe5a2b4d76
+timeCreated: 1513804152
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Figure_1
+    100006: Figure_1_MeshPart0
+    100008: Figure_1_MeshPart1
+    100010: foot.L
+    100012: foot.L.001
+    100014: foot.L.001_end
+    100016: foot.L_end
+    100018: front_foot.L
+    100020: front_foot.L.001
+    100022: front_shin.L
+    100024: front_shin.L.001
+    100026: front_thigh.L
+    100028: front_thigh.L.001
+    100030: front_toe.L
+    100032: front_toe.L.001
+    100034: front_toe.L.001_end
+    100036: front_toe.L_end
+    100038: Lamp
+    100040: metarig
+    100042: shin.L
+    100044: shin.L.001
+    100046: shoulder.L
+    100048: shoulder.L.001
+    100050: spine.001
+    100052: spine.002
+    100054: spine.003
+    100056: spine.004
+    100058: spine.005
+    100060: spine.006
+    100062: spine.007
+    100064: spine.008
+    100066: spine.009
+    100068: spine.010
+    100070: spine.011
+    100072: spine.011_end
+    100074: thigh.L
+    100076: thigh.L.001
+    400000: //RootNode
+    400002: Camera
+    400004: Figure_1
+    400006: Figure_1_MeshPart0
+    400008: Figure_1_MeshPart1
+    400010: foot.L
+    400012: foot.L.001
+    400014: foot.L.001_end
+    400016: foot.L_end
+    400018: front_foot.L
+    400020: front_foot.L.001
+    400022: front_shin.L
+    400024: front_shin.L.001
+    400026: front_thigh.L
+    400028: front_thigh.L.001
+    400030: front_toe.L
+    400032: front_toe.L.001
+    400034: front_toe.L.001_end
+    400036: front_toe.L_end
+    400038: Lamp
+    400040: metarig
+    400042: shin.L
+    400044: shin.L.001
+    400046: shoulder.L
+    400048: shoulder.L.001
+    400050: spine.001
+    400052: spine.002
+    400054: spine.003
+    400056: spine.004
+    400058: spine.005
+    400060: spine.006
+    400062: spine.007
+    400064: spine.008
+    400066: spine.009
+    400068: spine.010
+    400070: spine.011
+    400072: spine.011_end
+    400074: thigh.L
+    400076: thigh.L.001
+    4300000: Figure_1_MeshPart0
+    4300002: Figure_1_MeshPart1
+    4300004: Figure_1
+    7400000: metarig|Action
+    7400002: metarig|Action.001
+    7400004: metarig|metarigAction
+    7400006: metarig|Planare
+    9500000: //RootNode
+    13700000: Figure_1_MeshPart0
+    13700002: Figure_1_MeshPart1
+    13700004: Figure_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig|Action
+      takeName: metarig|Action
+      firstFrame: 0
+      lastFrame: 83
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Figure_1
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: metarig
+        weight: 1
+      - path: metarig/spine.001
+        weight: 1
+      - path: metarig/spine.001/spine.002
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L/front_thigh.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L/front_thigh.L/front_shin.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L/front_thigh.L/front_shin.L/front_foot.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L/front_thigh.L/front_shin.L/front_foot.L/front_toe.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L/front_thigh.L/front_shin.L/front_foot.L/front_toe.L/front_toe.L_end
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L.001/front_thigh.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L.001/front_thigh.L.001/front_shin.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L.001/front_thigh.L.001/front_shin.L.001/front_foot.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L.001/front_thigh.L.001/front_shin.L.001/front_foot.L.001/front_toe.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/shoulder.L.001/front_thigh.L.001/front_shin.L.001/front_foot.L.001/front_toe.L.001/front_toe.L.001_end
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/spine.009
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/spine.009/spine.010
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/spine.009/spine.010/spine.011
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.007/spine.008/spine.009/spine.010/spine.011/spine.011_end
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L/shin.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L.001/shin.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L.001/shin.L.001/foot.L.001
+        weight: 1
+      - path: metarig/spine.001/spine.002/spine.003/spine.004/spine.005/thigh.L.001/shin.L.001/foot.L.001/foot.L.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

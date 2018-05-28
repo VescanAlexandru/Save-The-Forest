@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save The Forest", "Save The Forest.csproj", "{CDC5EF3A-A5ED-CF2B-DEF5-148BC429BF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save The Forest.Editor", "Save The Forest.Editor.csproj", "{E2091AE9-42C5-9EFE-AF7A-3FD60DA65600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC5EF3A-A5ED-CF2B-DEF5-148BC429BF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC5EF3A-A5ED-CF2B-DEF5-148BC429BF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC5EF3A-A5ED-CF2B-DEF5-148BC429BF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC5EF3A-A5ED-CF2B-DEF5-148BC429BF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2091AE9-42C5-9EFE-AF7A-3FD60DA65600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2091AE9-42C5-9EFE-AF7A-3FD60DA65600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2091AE9-42C5-9EFE-AF7A-3FD60DA65600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2091AE9-42C5-9EFE-AF7A-3FD60DA65600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

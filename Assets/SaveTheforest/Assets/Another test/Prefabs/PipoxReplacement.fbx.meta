@@ -1,0 +1,2396 @@
+fileFormatVersion: 2
+guid: 473b42b06cec31e4e87672b07a2a6d87
+timeCreated: 1515424257
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle.B.L
+    100002: ankle.B.R.001
+    100004: Bone
+    100006: chest
+    100008: CTRLbrow.L
+    100010: CTRLbrow.L_end
+    100012: CTRLbrow.Mid
+    100014: CTRLbrow.Mid_end
+    100016: CTRLbrow.R
+    100018: CTRLbrow.R_end
+    100020: CTRLchin
+    100022: CTRLchin_end
+    100024: CTRLsmile.L
+    100026: CTRLsmile.L_end
+    100028: CTRLsmile.R
+    100030: CTRLsmile.R_end
+    100032: ear.L
+    100034: ear.L_end
+    100036: ear.R
+    100038: ear.R_end
+    100040: earbase.L
+    100042: earbase.R
+    100044: EyeBall
+    100046: eyeball.L
+    100048: eyeball.L_end
+    100050: eyeball.R
+    100052: eyeball.R_end
+    100054: eyeballLoock.L
+    100056: eyeballLoock.L_end
+    100058: eyeballLoock.R
+    100060: eyeballLoock.R_end
+    100062: eyelid.B.L
+    100064: eyelid.B.L_end
+    100066: eyelid.B.R
+    100068: eyelid.B.R_end
+    100070: eyelid.T.L
+    100072: eyelid.T.L_end
+    100074: eyelid.T.R
+    100076: eyelid.T.R_end
+    100078: foot.B.L
+    100080: foot.B.L_end
+    100082: foot.B.R.001
+    100084: foot.B.R.001_end
+    100086: foot.F.L
+    100088: foot.F.L_end
+    100090: foot.F.R.001
+    100092: foot.F.R.001_end
+    100094: head
+    100096: hips
+    100098: IKfoot.B.L
+    100100: IKfoot.B.L_end
+    100102: IKfoot.B.R.001
+    100104: IKfoot.B.R.001_end
+    100106: IKfoot.F.L
+    100108: IKfoot.F.L_end
+    100110: IKfoot.F.R.001
+    100112: IKfoot.F.R.001_end
+    100114: knee.B.L
+    100116: knee.B.L_end
+    100118: knee.B.R.001
+    100120: knee.B.R.001_end
+    100122: knee.F.L
+    100124: knee.F.L_end
+    100126: knee.F.R.001
+    100128: knee.F.R.001_end
+    100130: Lamp.003
+    100132: neck
+    100134: nose
+    100136: nose_end
+    100138: Pipox
+    100140: Pipox_MeshPart0
+    100142: Pipox_MeshPart1
+    100144: //RootNode
+    100146: PipoxRig
+    100148: shin..F.L
+    100150: shin..F.R.001
+    100152: shin.B.L
+    100154: shin.B.R.001
+    100156: spine
+    100158: tail.01
+    100160: tail.02
+    100162: tail.03
+    100164: tail.03_end
+    100166: tail.base
+    100168: thigh..F.L
+    100170: thigh..F.R.001
+    100172: thigh.B.L
+    100174: thigh.B.R.001
+    100176: tounge.01
+    100178: tounge.Base
+    100180: toungetip
+    100182: toungetip_end
+    400000: ankle.B.L
+    400002: ankle.B.R.001
+    400004: Bone
+    400006: chest
+    400008: CTRLbrow.L
+    400010: CTRLbrow.L_end
+    400012: CTRLbrow.Mid
+    400014: CTRLbrow.Mid_end
+    400016: CTRLbrow.R
+    400018: CTRLbrow.R_end
+    400020: CTRLchin
+    400022: CTRLchin_end
+    400024: CTRLsmile.L
+    400026: CTRLsmile.L_end
+    400028: CTRLsmile.R
+    400030: CTRLsmile.R_end
+    400032: ear.L
+    400034: ear.L_end
+    400036: ear.R
+    400038: ear.R_end
+    400040: earbase.L
+    400042: earbase.R
+    400044: EyeBall
+    400046: eyeball.L
+    400048: eyeball.L_end
+    400050: eyeball.R
+    400052: eyeball.R_end
+    400054: eyeballLoock.L
+    400056: eyeballLoock.L_end
+    400058: eyeballLoock.R
+    400060: eyeballLoock.R_end
+    400062: eyelid.B.L
+    400064: eyelid.B.L_end
+    400066: eyelid.B.R
+    400068: eyelid.B.R_end
+    400070: eyelid.T.L
+    400072: eyelid.T.L_end
+    400074: eyelid.T.R
+    400076: eyelid.T.R_end
+    400078: foot.B.L
+    400080: foot.B.L_end
+    400082: foot.B.R.001
+    400084: foot.B.R.001_end
+    400086: foot.F.L
+    400088: foot.F.L_end
+    400090: foot.F.R.001
+    400092: foot.F.R.001_end
+    400094: head
+    400096: hips
+    400098: IKfoot.B.L
+    400100: IKfoot.B.L_end
+    400102: IKfoot.B.R.001
+    400104: IKfoot.B.R.001_end
+    400106: IKfoot.F.L
+    400108: IKfoot.F.L_end
+    400110: IKfoot.F.R.001
+    400112: IKfoot.F.R.001_end
+    400114: knee.B.L
+    400116: knee.B.L_end
+    400118: knee.B.R.001
+    400120: knee.B.R.001_end
+    400122: knee.F.L
+    400124: knee.F.L_end
+    400126: knee.F.R.001
+    400128: knee.F.R.001_end
+    400130: Lamp.003
+    400132: neck
+    400134: nose
+    400136: nose_end
+    400138: Pipox
+    400140: Pipox_MeshPart0
+    400142: Pipox_MeshPart1
+    400144: //RootNode
+    400146: PipoxRig
+    400148: shin..F.L
+    400150: shin..F.R.001
+    400152: shin.B.L
+    400154: shin.B.R.001
+    400156: spine
+    400158: tail.01
+    400160: tail.02
+    400162: tail.03
+    400164: tail.03_end
+    400166: tail.base
+    400168: thigh..F.L
+    400170: thigh..F.R.001
+    400172: thigh.B.L
+    400174: thigh.B.R.001
+    400176: tounge.01
+    400178: tounge.Base
+    400180: toungetip
+    400182: toungetip_end
+    4300000: EyeBall
+    4300002: Pipox_MeshPart0
+    4300004: Pipox_MeshPart1
+    7400000: PipoxRig|Paw
+    7400002: PipoxRig|Run
+    7400004: PipoxRig|Sit
+    7400006: PipoxRig|Sit And Bark
+    7400008: PipoxRig|Sit PAw Left
+    7400010: PipoxRig|Sit PAw Right
+    7400012: PipoxRig|SitAndScrach
+    7400014: PipoxRig|Sleep
+    7400016: PipoxRig|Wait
+    7400018: PipoxRig|Walk
+    9500000: //RootNode
+    13700000: EyeBall
+    13700002: Pipox_MeshPart0
+    13700004: Pipox_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PipoxRig|Paw
+      takeName: PipoxRig|Paw
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Run
+      takeName: PipoxRig|Run
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Sit
+      takeName: PipoxRig|Sit
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Sit And Bark
+      takeName: PipoxRig|Sit And Bark
+      firstFrame: 0
+      lastFrame: 112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Sit PAw Left
+      takeName: PipoxRig|Sit PAw Left
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Sit PAw Right
+      takeName: PipoxRig|Sit PAw Right
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|SitAndScrach
+      takeName: PipoxRig|SitAndScrach
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Sleep
+      takeName: PipoxRig|Sleep
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Wait
+      takeName: PipoxRig|Wait
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PipoxRig|Walk
+      takeName: PipoxRig|Walk
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EyeBall
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Pipox
+        weight: 1
+      - path: Pipox/Pipox_MeshPart0
+        weight: 1
+      - path: Pipox/Pipox_MeshPart1
+        weight: 1
+      - path: PipoxRig
+        weight: 1
+      - path: PipoxRig/Bone
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.L/eyeballLoock.L_end
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R
+        weight: 1
+      - path: PipoxRig/Bone/eyeballLoock.R/eyeballLoock.R_end
+        weight: 1
+      - path: PipoxRig/hips
+        weight: 1
+      - path: PipoxRig/hips/spine
+        weight: 1
+      - path: PipoxRig/hips/spine/chest
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.L/CTRLbrow.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.Mid/CTRLbrow.Mid_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLbrow.R/CTRLbrow.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLchin/CTRLchin_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.L/CTRLsmile.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/CTRLsmile.R/CTRLsmile.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.L/ear.L/ear.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/earbase.R/ear.R/ear.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.L/eyeball.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyeball.R/eyeball.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.L/eyelid.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.B.R/eyelid.B.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.L/eyelid.T.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/eyelid.T.R/eyelid.T.R_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/nose/nose_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/neck/head/tounge.Base/tounge.01/toungetip/toungetip_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.L/shin..F.L/foot.F.L/foot.F.L_end
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001
+        weight: 1
+      - path: PipoxRig/hips/spine/chest/thigh..F.R.001/shin..F.R.001/foot.F.R.001/foot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/hips/tail.base
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03
+        weight: 1
+      - path: PipoxRig/hips/tail.base/tail.01/tail.02/tail.03/tail.03_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.L/shin.B.L/ankle.B.L/foot.B.L/foot.B.L_end
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001
+        weight: 1
+      - path: PipoxRig/hips/thigh.B.R.001/shin.B.R.001/ankle.B.R.001/foot.B.R.001/foot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L
+        weight: 1
+      - path: PipoxRig/IKfoot.B.L/IKfoot.B.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.B.R.001/IKfoot.B.R.001_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L
+        weight: 1
+      - path: PipoxRig/IKfoot.F.L/IKfoot.F.L_end
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001
+        weight: 1
+      - path: PipoxRig/IKfoot.F.R.001/IKfoot.F.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.B.L
+        weight: 1
+      - path: PipoxRig/knee.B.L/knee.B.L_end
+        weight: 1
+      - path: PipoxRig/knee.B.R.001
+        weight: 1
+      - path: PipoxRig/knee.B.R.001/knee.B.R.001_end
+        weight: 1
+      - path: PipoxRig/knee.F.L
+        weight: 1
+      - path: PipoxRig/knee.F.L/knee.F.L_end
+        weight: 1
+      - path: PipoxRig/knee.F.R.001
+        weight: 1
+      - path: PipoxRig/knee.F.R.001/knee.F.R.001_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
